@@ -22,3 +22,8 @@ API key: dd8cedb72349b0f32a7715bb048eea3b
 
 https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid={API key}
 https://simplemaps.com/data/gb-cities#:~:text=Below%20is%20a%20list%20of%20258%20prominent%20cities,the%20fields%29%20that%20you%27ll%20find%20in%20our%20.
+
+>- requests: For API calls
+>- pandas: For data storage & manipulation
+>- streamlit: (Optional) To build a simple UI
+>- geopy: To get coordinates for UK cities
